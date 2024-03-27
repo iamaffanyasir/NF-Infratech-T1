@@ -24,7 +24,8 @@
 
 .u-section-1-1 .u-text-1 {
   font-size: 3rem;
-  margin: 357px 714px 0 0;
+  font-weight: 700;
+  margin: 357px 549px 0 0;
 }
 
 .u-section-1-1 .u-btn-1 {
@@ -42,7 +43,7 @@
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-right: 514px;
+    margin-right: 349px;
   }
 }
 
@@ -52,7 +53,7 @@
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-right: 294px;
+    margin-right: 129px;
   }
 }
 
@@ -62,17 +63,13 @@
   }
 
   .u-section-1-1 .u-text-1 {
-    margin-right: 114px;
+    margin-right: 0;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1-1 .u-sheet-1 {
     min-height: 254px;
-  }
-
-  .u-section-1-1 .u-text-1 {
-    margin-right: 0;
   }
 }
 
