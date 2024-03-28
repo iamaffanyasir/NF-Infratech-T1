@@ -84,4 +84,9 @@
     height: 275px;
     margin-left: initial;
   }
+}@font-face {
+  font-family: 'Poppins-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Poppins-Regular.ttf);
 }

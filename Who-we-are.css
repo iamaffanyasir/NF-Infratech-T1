@@ -1080,4 +1080,9 @@
   .u-section-7 .u-image-3 {
     min-height: 353px;
   }
+}@font-face {
+  font-family: 'Poppins-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/Poppins-Regular.ttf);
 }
