@@ -61,16 +61,19 @@
 .u-section-1 .u-input-1 {
   font-size: 1.125rem;
   text-transform: none;
+  --radius: 10px;
 }
 
 .u-section-1 .u-input-2 {
   font-size: 1.125rem;
   text-transform: none;
+  --radius: 10px;
 }
 
 .u-section-1 .u-input-3 {
   font-size: 1.125rem;
   text-transform: none;
+  --radius: 10px;
 }
 
 .u-section-1 .u-btn-2 {
